@@ -49,11 +49,6 @@ com.example.realestateapp
     └── theme                   // Compose Theme
 ```
 
-## How to Run
-
-1. Open this folder `e:/task_android/RealEstateApp` in **Android Studio**.
-2. Sync Project with Gradle Files.
-3. Select an emulator or device.
-4. Run the application (`Shift + F10`).
+ 
 
 Note: Since the Gradle Wrapper scripts (`gradlew`) were not generated in this environment, opening in Android Studio will automatically generate them.
